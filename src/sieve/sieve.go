@@ -13,7 +13,7 @@ import (
 func main() {
 	no, _ := strconv.Atoi(os.Args[1])
 	div := 0
-	var seive [1000]int
+	seive := make([]int, no+1)
 	for i := 2; i <= no; i++ {
 		seive[i] = i
 	}

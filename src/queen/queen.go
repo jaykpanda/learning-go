@@ -5,10 +5,10 @@ In the game of chess, a queen can attack pieces which are on the same row, colum
 A chessboard can be represented by an 8 by 8 array.
 _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _
-_ _ _ W _ _ _ _
+_ _ _ ♛ _ _ _ _
 _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _
-_ _ _ _ _ _ B _
+_ _ _ _ _ _ ♛ _
 _ _ _ _ _ _ _ _
 _ _ _ _ _ _ _ _
 */
